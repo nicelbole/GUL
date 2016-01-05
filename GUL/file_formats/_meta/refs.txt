@@ -1,0 +1,3 @@
+List of references:
+
+[RIFFMCI]: https://www.aelius.com/njh/wavemetatools/doc/riffmci.pdf
